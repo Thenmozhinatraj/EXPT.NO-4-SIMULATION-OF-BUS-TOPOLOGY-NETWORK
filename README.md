@@ -60,7 +60,7 @@ $ns run
 ```
 # OUTPUT
 
-<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/d5405ed9-200e-47ac-9de9-e23c1a9ed4bc" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d5405ed9-200e-47ac-9de9-e23c1a9ed4bc" />
 
 ---
 
